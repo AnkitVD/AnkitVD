@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Ankit!! ✨
 
-<!--
-**AnkitVD/AnkitVD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech in Computer Science Engineering <br/> 
+🛡️ Aspiring Cybersecurity Professional <br/>  
+🐍 Python Enthusiast | Web Developer  <br/> 
+📂 Working on Society Management Websites  <br/> 
+📚 Preparing for Campus Placements & Technical Interviews <br/>  
 
-Here are some ideas to get you started:
+I create secure and scalable web applications.<br/>   
+I also explore cybersecurity and database management<br/> .  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📸 I make tech and coding videos on [YouTube]()  <br/> 
+🔗 Connect with me on [LinkedIn]()  <br/> 
+🚀 Check out my projects on [GitHub]()  
